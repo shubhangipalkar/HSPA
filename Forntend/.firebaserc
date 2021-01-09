@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hspa-d5656"
+  },
+  "targets": {
+    "hspa-d5656": {
+      "hosting": {
+        "HSPA": [
+          "hspa-d5656"
+        ]
+      }
+    }
+  }
+}

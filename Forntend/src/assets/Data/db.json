@@ -1,0 +1,75 @@
+ [
+  {
+    "id": 1,
+    "sellrent": 1,
+    "name": "Birla House",
+    "type": "Apartment",
+    "size": 1200,
+    "image": "prp1",
+    "price": "2cr"
+  },
+  {
+    "id": 2,
+    "sellrent": 1,
+    "name": "Shubh House",
+    "type": "Apartment",
+    "size": 1300,
+    "image": "prp2",
+    "price": "2cr"
+  },
+  {
+    "id": 3,
+    "sellrent": 2,
+    "name": "Birla House",
+    "type": "Apartment",
+    "size": 1400,
+    "image": "prp3",
+    "price": "3cr"
+  },
+  {
+    "id": 4,
+    "sellrent": 1,
+    "name": "Haware Builders",
+    "type": "Apartment",
+    "size": 1500,
+    "image": "prp8",
+    "price": "4cr"
+  },
+  {
+    "id": 5,
+    "sellrent": 2,
+    "name": "Rustom Builders",
+    "type": "Apartment",
+    "size": 1600,
+    "image": "prp5",
+    "price": "5cr"
+  },
+  {
+    "id": 6,
+    "sellrent": 2,
+    "name": "Birla House",
+    "type": "Apartment",
+    "size": 1200,
+    "image": "prp6",
+    "price": "2cr"
+  },
+  {
+    "id": 7,
+    "sellrent": 1,
+    "name": "Birla House",
+    "type": "Apartment",
+    "size": 1200,
+    "image": "prp7",
+    "price": "2cr"
+  },
+  {
+    "id": 8,
+    "sellrent": 1,
+    "name": "Chetana Builders",
+    "type": "Apartment",
+    "size": 1200,
+    "image": "",
+    "price": "2cr"
+  }
+]
+
